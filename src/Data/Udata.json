@@ -1,0 +1,37 @@
+{
+    "Uid":"1",
+    "Uname":"IIM Ahmedabad- Indian Institute of Management",
+    "Location":"Ahmedabad",
+    "Ownership":"Government - Autonomous", 
+    "TotalCourses":85,
+    "Courses":{
+        "Ug":{
+            "Btech":[{"id":1,"name":"cse"},{"id":2,"name":"ece"}],
+            "BA":[{"id":1,"name":"Advertising"},{"id":2,"name":"archeology"}]
+        },
+        "Pg":{
+            "Mtech":[{"id":1,"name":"cse"},{"id":2,"name":"ece"}],
+            "Msc":[{"id":1,"name":"mathematics"},{"id":2,"name":"Zoology"}]
+        },
+        "Phd":{
+            "Sciences":[{"id":1,"name":"chemistry"},{"id":2,"name":"physics"}],
+            "Arts":[{"id":1,"name":"economics"},{"id":2,"name":"sociology"}]
+        }
+    },
+    "OverallRating":4.6,
+    "Placements":4.5,
+    "Infrastructure":4.6,
+    "Faculty":4.5,
+    "ValueForMoney":4.7,
+    "Ranking":{
+        "Nirf":22,
+        "BussToday":20,
+        "TheWeek":20,
+        "Outlook":20
+    },
+    "coed":true,
+    "Salary":2000000,
+    "TotalFees":1000000,
+    "AcceptedExams":"JEE",
+    "Facilties":["Library","Cafeteria","Hostel","Sports Complex","Gym","Wifi","Auditorium","Music Room","AcClasses","Labs","Convenience Store"]  
+}
